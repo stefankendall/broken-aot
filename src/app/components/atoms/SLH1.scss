@@ -1,0 +1,10 @@
+sl-h1 {
+  display: block;
+  font-size: 2rem;
+}
+
+@media (max-width: 315px) {
+  sl-h1 {
+    font-size: 1rem;
+  }
+}
