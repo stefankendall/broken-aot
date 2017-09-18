@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@angular/compiler-cli": "2.4.10",
-    "@ngtools/webpack": "1.6.2",
+    "@ngtools/webpack": "1.7.1",
     "@types/es6-shim": "0.31.33",
     "@types/jasmine": "2.5.47",
     "@types/node": "7.0.22",
